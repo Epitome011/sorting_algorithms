@@ -1,1 +1,1 @@
-This is a readme file for sorting algorithms and Big O
+This is a README file for sorting algorithm and Big o.
